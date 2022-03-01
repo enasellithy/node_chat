@@ -1,0 +1,33 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enasellithy/node_chat.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "nodejs",
+    "express"
+  ],
+  "author": "enas ellithy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enasellithy/node_chat/issues"
+  },
+  "homepage": "https://github.com/enasellithy/node_chat#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
